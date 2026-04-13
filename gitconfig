@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = remi.chpt@gmail.com
+	name = Remi Chaput
